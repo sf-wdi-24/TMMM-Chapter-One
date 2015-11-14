@@ -1,6 +1,6 @@
 # <img src="https://cloud.githubusercontent.com/assets/7833470/10423298/ea833a68-7079-11e5-84f8-0a925ab96893.png" width="60">  The Mythical Man Month
 
-It's a book written a long time ago. <a href="https://archive.org/details/mythicalmanmonth00fred" target="_blank">It's so important that it is available for **FREE** online!</a>.
+It's a book written a long time ago. <a href="https://archive.org/details/mythicalmanmonth00fred" target="_blank">It's so important that it is available for **FREE** online!</a>
 
 ## Why are we making you read it?
 
