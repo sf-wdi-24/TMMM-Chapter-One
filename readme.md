@@ -4,6 +4,8 @@ It's a book written a long time ago. <a href="https://archive.org/details/mythic
 
 ## Why are we making you read it?
 
+<img src="http://i.imgur.com/ycxu0zp.gif">
+
 At one point I asked a senior engineer if they could recommend me any reading which will make me a better developer and creator. They responded by saying:
 
 > Have you read Mythical Man Month yet?
