@@ -8,9 +8,9 @@ It's a book written a long time ago. <a href="https://archive.org/details/mythic
 
 At one point I asked a senior engineer if they could recommend me any reading which will make me a better developer and creator. They responded by saying:
 
-> Have you read Mythical Man Month yet?
+> Have you read Mythical Man-Month yet?
 
-I hadn't and responded with something snarky. That night I purchased the book and read it. To this day it is a book which I often pull new work lessons from.
+I hadn't, and responded with something snarky. That night I purchased the book and read it. To this day it is a book which I often pull new work lessons from.
 
 We believe that as new developers or those working in technical trades, this book will give you insight into what it's like to work on a development team.
 
