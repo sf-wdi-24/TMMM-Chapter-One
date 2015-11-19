@@ -1,0 +1,53 @@
+# <img src="https://cloud.githubusercontent.com/assets/7833470/10423298/ea833a68-7079-11e5-84f8-0a925ab96893.png" width="60">  The Mythical Man-Month
+
+It's a book written a long time ago. <a href="https://archive.org/details/mythicalmanmonth00fred" target="_blank">It's so important that it is available for **FREE** online!</a>
+
+## Why are we making you read it?
+
+<img src="http://i.imgur.com/ycxu0zp.gif">
+
+At one point I asked a senior engineer if they could recommend me any reading which will make me a better developer and creator. They responded by saying:
+
+> Have you read Mythical Man-Month yet?
+
+I hadn't, and responded with something snarky. That night I purchased the book and read it. To this day it is a book which I often pull new work lessons from.
+
+We believe that as new developers or those working in technical trades, this book will give you insight into what it's like to work on a development team.
+
+## Homework
+
+**Read the first chapter of The Mythical Man Month.**
+
+To get started, fork this repo, and clone it into your `develop` folder on your local machine. Create a new file called `answers.md`, and respond to the following questions with your thoughts after reading the first chapter:
+
+1. What does the quote on the first page mean to you?
+
+"A ship on the beach is a lighthouse to the sea.
+A lighthouse indicates that there is land near by. It brings refuge for those who have been on a journey and want a rest. A lighthouse is strong and does not move. A ship on the beach indicates that a ship has landed and has found refuge on the land. Perhaps the people on the ship wanted a sense of refuge. I think this quote means refuge. 
+
+2. Does every software project succeed?
+
+No, and that is because the projects are not managed efficiently. The resources may be underestimated and thus causing the project to stale and fail. 
+
+Made me think about my own projects...
+
+3. What are some reasons why a project may fail to meet deadlines?
+
+Poor choice of resources. Underestimating actual time and labor to complete the project. 
+Reading this actually made me think about the projects that I have done in the class, I always seem to have a grand vision of what I want, and that, well, that's just not practical. I need to be realistic, and think about the actual time and resources I have. I also have to consider my planning, because I may need time to review notes and actually learn how to implement certain skills. 
+
+4. What is fun about programming?
+
+Programming allows you to create things for a social impact and allows the opportunity to learn from those experiences. 
+
+5. What is not fun about programming?
+
+One error and something breaks. Working with other programmers is difficult, because there may be errors in their code. Debugging can be long and take more time than expected. 
+The other day, I stayed up til 1:00am to fix my blog and something was wrong but I just find the source. As much as I was frustrated, I decided to go back to bed and ask for help at school. I guess it helps to take breaks and not beat myself up for having bugs. Debugging is super annoying! I need to learn that debugging is just part of the process of programming and it's always good to take breaks. 
+
+6. How much time does the last bug take to fix?
+
+Another time was yesterday. Zoe and I were looking at my microblog and we were trying to fix the server.js file because the server indicated that a "}" was missing. We searched and retyped, and searched again and we were certain that it was correct and nothing was wrong. Finally after 20 minutes we asked Stanley to help. He found that the problem was not a "}" after all, but I had accidently duplicated my previous file somehow when creating a different branch and now I had two copies of my server.js file and the second file had the error. I learned that it's important to look at the files being inspected for bugs, because they may not be right files and the server does not actually which file has the bug. (Also it's always a good thing to have only 1 copy of file and not have duplicates)
+
+
+Once you've finished the assignment and pushed your work to GitHub, make a pull request from your fork to the original repo.
